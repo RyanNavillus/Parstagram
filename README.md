@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Imgur demo](https://i.imgur.com/AADlEPX.mp4 "Imgur")
+[Imgur demo](https://i.imgur.com/AADlEPX.mp4 "Imgur")
